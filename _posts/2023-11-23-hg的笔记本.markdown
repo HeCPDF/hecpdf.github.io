@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "hg的笔记本（原稿已被撕毁）"
+date:   2023-11-23 00:00:00 +0800
+categories: notes
+tags: [hg]
+---
+点击查看大图
+<style>
+    .thumbnail {
+        width: 200px; /* 缩略图的宽度 */
+        height: 280px; /* 缩略图的高度 */
+        object-fit: cover; /* 保持图片的比例 */
+        border: none; /* 去掉边框 */
+        padding: 0; /* 去掉填充 */
+        margin: 5px; /* 添加一些间距 */
+    }
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: left;
+        justify-content: space-around;
+    }
+</style>
+
+<div class="row">
+  {% for i in (1..6) %}
+    <img src="/images/2023/11/23/S3G-notebook-PNGver/S3G-notebook-{{ i }}.png" alt="第{{ i }}页" class="thumbnail">
+  {% endfor %}
+</div>
+
+尚无**文本化**的打算
+
+图片很可能加载不出来
+
+将就吧...
+PS: 有时间挂到图床上

@@ -3,6 +3,7 @@ layout: post
 title:  "小说推荐 by LYX"
 date:   2024-05-27 23:00:00 +0800
 categories: notes
+tags: [lyx, novel]
 ---
 ## 列表[^1]如下：
 1. ⭐️一拜天地

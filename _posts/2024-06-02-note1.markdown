@@ -4,13 +4,8 @@ title:  "YMY与WZY的上课闲聊"
 date:   2024-06-07 17:00:00 +0800
 categories: notes
 lyx: 刘雨萱
+tags: [wzy, ymy, note]
 ---
-## Contents
-- [Contents](#contents)
-- [Chapter 1](#chapter-1)
-- [Chapter 2](#chapter-2)
-- [Chapter 3](#chapter-3)
-
 
 ## Chapter 1
 
