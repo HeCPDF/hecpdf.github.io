@@ -17,5 +17,6 @@ ToDo List
 - - [x] Chapter 2
 - - [ ] Chapter 3
 - [ ] 笔记本 电子化
+- - [x] 部分完成 
 
 
