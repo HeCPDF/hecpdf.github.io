@@ -12,7 +12,7 @@ order: 5
 
 ToDo List
 
-- [ ] 完成 [YMY与WZY的上课闲聊](/posts/note1/)
+- [ ] 完成 [YMY与WZY的上课闲聊](/posts/上课闲聊/)
 - - [x] Chapter 1
 - - [x] Chapter 2
 - - [ ] Chapter 3
