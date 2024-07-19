@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-archive
+icon: fas fa-image
 order: 4
 title: 图库
 ---
