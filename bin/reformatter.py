@@ -2,7 +2,9 @@ import os
 import shutil
 
 # 当前工作目录
-current_directory = os.getcwd()
+# current_directory = os.getcwd()
+script_path = os.path.abspath(__file__)
+current_directory = os.path.join(script_path, "..", "images")
 
 # 遍历当前目录及其所有子目录
 for root, dirs, files in os.walk(current_directory):
