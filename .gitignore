@@ -27,3 +27,4 @@ assets/js/dist
 
 # macOS Configurations
 .DS_Store
+*.Identifier

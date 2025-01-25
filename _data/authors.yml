@@ -34,10 +34,8 @@ csdn_google19890102:
 
 
 # writters of novels
-writter-ChangShengJun:
+chang_sheng_jun:
   name: 长生君
-writter-XiaZongGong:
-  name: 侠总攻
 
 
 doi:
@@ -51,3 +49,6 @@ xijia_jiang:
 houhuayuan:
   name: 蔷薇后花园
   url: https://houhuayuan.vip/
+
+liu_cixin:
+  name: 刘慈欣
