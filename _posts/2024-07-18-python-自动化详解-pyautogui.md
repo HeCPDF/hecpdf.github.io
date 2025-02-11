@@ -2,7 +2,7 @@
 layout: post
 title: Python 自动化详解（pyautogui）
 date: 2023-10-27 10:44:04 +0800
-categories: 技术 Python
+categories: 技术
 tags: [python, 自动化, 开发语言]
 author: csdn-qq_34745941
 ---
